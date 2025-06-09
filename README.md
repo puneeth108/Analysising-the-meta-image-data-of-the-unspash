@@ -24,7 +24,7 @@ pandas library (used here but not strictly required for this version)
 
 fractions (standard library)
 
-pip3 used to install the all liabaries for the project
+Using pip3 to install the all liabaries for the project
 
 🚀 Demo
 
