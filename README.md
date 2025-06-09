@@ -27,6 +27,7 @@ fractions (standard library)
 pip3 used to install the all liabaries for the project
 
 🚀 Demo
+
 $ python unsplash_metadata_fetcher.py
 Enter the Unsplash photo ID: aBcDeFg1234
 
